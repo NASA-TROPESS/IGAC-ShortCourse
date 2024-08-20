@@ -15,7 +15,7 @@ The notebooks feature the following capabilities:
   
    -> Download the **[environment.yml](https://github.com/NASA-TROPESS/IGAC-ShortCourse/blob/main/environment.yml)** file.
    
-   -> Install Anaconda package: **[https://docs.anaconda.com/free/anaconda/install/](https://docs.anaconda.com/free/anaconda/install/)**
+   -> Install the free "mini" conda package: **[https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html)**
    
    -> Run the following from your commandline: **conda env create --file environment.yml**
    
