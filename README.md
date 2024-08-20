@@ -8,12 +8,12 @@ The notebooks feature the following capabilities:
 3. Data plotting/analysis/visualization
 
 ## Special Notes for First-Time Users:
-1. See the **[environment.yml](https://github.com/NASA-TROPESS/tutorials_notebooks/blob/main/environment.yml)** file for a list of dependencies.
-2. If you not familiar with managing your own dependencies, we suggest utilizing the provided **[environment.yml](https://github.com/NASA-TROPESS/tutorials_notebooks/blob/main/environment.yml)** file, as follows:
+1. See the **[environment.yml](https://github.com/NASA-TROPESS/IGAC-ShortCourse/blob/main/environment.yml)** file for a list of dependencies.
+2. If you not familiar with managing your own dependencies, we suggest utilizing the provided **[environment.yml](https://github.com/NASA-TROPESS/IGAC-ShortCourse/blob/main/environment.yml)** file, as follows:
    
   **Step 1:** Create a new conda environment called tropess-env:
   
-   -> Download the **[environment.yml](https://github.com/NASA-TROPESS/tutorials_notebooks/blob/main/environment.yml)** file.
+   -> Download the **[environment.yml](https://github.com/NASA-TROPESS/IGAC-ShortCourse/blob/main/environment.yml)** file.
    
    -> Install Anaconda package: **[https://docs.anaconda.com/free/anaconda/install/](https://docs.anaconda.com/free/anaconda/install/)**
    
@@ -28,8 +28,8 @@ The notebooks feature the following capabilities:
 ## Tutorial Summary
 | Notebook Title    | Summary        | Link        | Features/Capabilities |
 |-------------------|----------------|-------------|-----------------------|
-| Study of the 2020 COVID Lockdown (February-July) using the TROPESS Chemical Reanalysis (TCR) Version 2 Download and Analysis Notebook - **Integrated Data Download** | A Jupyter Notebook coded in Python which reads the TROPESS Chemical Reanalysis Surface Total NOx emissions Monthly 2-dimensional Product V1 (TRPSCRENOXTM2D) data products for February to July 2020 directly using HTTPS-based download from NASA Earthdata (GES DISC) and makes a monthly data plots for monthly comparison. | **[Notebook](https://github.com/NASA-TROPESS/tutorials_notebooks/blob/main/study-2020-covid-lockdown-tcr2-download-analysis.ipynb)** <br /> <br /> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NASA-TROPESS/tutorials_notebooks/68a8520e76ed8e7fa15228157a545d6721fdbde0?urlpath=lab%2Ftree%2Fstudy-2020-covid-lockdown-tcr2-download-analysis_4binder.ipynb) | Data access/subset/extraction/plotting/analysis/visualization | 
-| Study 2023 Canadian Wildfires using TROPESS CrIS JPSS-1 Carbon Monoxide (CO) data products - **Integrated Data Download** | A Jupyter Notebook coded in Python which reads TROPESS CrIS JPSS-1 CO data products for June 2023 and June 2022 and makes a monthly averaged data product and plots and compare them with fully integrated download of the input data files. | **[Notebook](https://github.com/NASA-TROPESS/tutorials_notebooks/blob/main/study-2023-canadian-wildfire-effect-integrated_data_download.ipynb)** <br /> <br /> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NASA-TROPESS/tutorials_notebooks/2957015d3fc15146c80b9b0f980e59ccdbc15acf?urlpath=lab%2Ftree%2Fstudy-2023-canadian-wildfire-effect-integrated_data_download_4binder.ipynb) | Data access/subset/extraction/plotting/analysis/visualization | 
+| Study of the 2020 COVID Lockdown (February-July) using the TROPESS Chemical Reanalysis (TCR) Version 2 Download and Analysis Notebook - **Integrated Data Download** | A Jupyter Notebook coded in Python which reads the TROPESS Chemical Reanalysis Surface Total NOx emissions Monthly 2-dimensional Product V1 (TRPSCRENOXTM2D) data products for February to July 2020 directly using HTTPS-based download from NASA Earthdata (GES DISC) and makes a monthly data plots for monthly comparison. | **[Notebook](https://github.com/NASA-TROPESS/IGAC-ShortCourse/blob/main/study-2020-covid-lockdown-tcr2-igac.ipynb)** <br /> <br /> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NASA-TROPESS/tutorials_notebooks/68a8520e76ed8e7fa15228157a545d6721fdbde0?urlpath=lab%2Ftree%2Fstudy-2020-covid-lockdown-tcr2-download-analysis_4binder.ipynb) | Data access/subset/extraction/plotting/analysis/visualization | 
+| Study 2023 Canadian Wildfires using TROPESS CrIS JPSS-1 Carbon Monoxide (CO) data products - **Integrated Data Download** | A Jupyter Notebook coded in Python which reads TROPESS CrIS JPSS-1 CO data products for June 2023 and June 2022 and makes a monthly averaged data product and plots and compare them with fully integrated download of the input data files. | **[Notebook](https://github.com/NASA-TROPESS/IGAC-ShortCourse/blob/main/study-2023-canadian-wildfire-effect-igac.ipynb)** <br /> <br /> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NASA-TROPESS/tutorials_notebooks/2957015d3fc15146c80b9b0f980e59ccdbc15acf?urlpath=lab%2Ftree%2Fstudy-2023-canadian-wildfire-effect-integrated_data_download_4binder.ipynb) | Data access/subset/extraction/plotting/analysis/visualization | 
 
 ## Copyright and Licensing Info
 Copyright (c) 2023-24 California Institute of Technology (“Caltech”). U.S. Government sponsorship acknowledged. All rights reserved.
