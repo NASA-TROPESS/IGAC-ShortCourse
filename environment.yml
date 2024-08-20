@@ -1,0 +1,35 @@
+# This file contains the required dependencies to fully execute all Jupyter notebooks and tutorials contained in this repository. 
+# 
+# To create this conda environment for the first time:
+#   run from your commandline:  conda env create --file environment.yml
+# ----------
+# Additional execution guidance from commandline/terminal:
+# - to activate environment: conda activate tropess-igac-env
+# - to install environment: conda env create --file environment.yml
+# - to deactivate environment: conda deactivate
+# - to update environment: conda env update --file environment.yml --name tropess-igac-env
+name: tropess-igac-env
+channels:
+ - conda-forge
+dependencies:
+ - python>=3.9
+ - nb_conda 
+ - numpy
+ - earthaccess
+ - requests
+ - netCDF4
+ - pandas
+ - pathlib
+ - matplotlib
+ - scipy
+ - imageio
+ - Basemap
+ - IPython
+ - pip
+
+# Python standard library dependencies
+# - jupyter
+# - contextlib
+# - datetime
+# - optparse
+# - h5netcdf
