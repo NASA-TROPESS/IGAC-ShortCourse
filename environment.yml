@@ -26,6 +26,9 @@ dependencies:
  - Basemap
  - IPython
  - pip
+ - pip:
+# works for regular pip packages
+   - podaac-data-subscriber
 
 # Python standard library dependencies
 # - jupyter
