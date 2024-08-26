@@ -24,6 +24,7 @@ dependencies:
  - scipy
  - imageio
  - Basemap
+ - cartopy
  - IPython
  - pip
  - pip:
