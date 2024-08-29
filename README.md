@@ -11,7 +11,7 @@ The notebooks feature the following capabilities:
 1. See the **[environment.yml](https://github.com/NASA-TROPESS/IGAC-ShortCourse/blob/main/environment.yml)** file for a list of dependencies.
 2. If you not familiar with managing your own dependencies, we suggest utilizing the provided **[environment.yml](https://github.com/NASA-TROPESS/IGAC-ShortCourse/blob/main/environment.yml)** file, as follows:
    
-  **Step 1:** Create a new conda environment called tropess-env:
+  **Step 1:** Create a new conda environment called tropess-igac-env:
   
    -> Download the **[environment.yml](https://github.com/NASA-TROPESS/IGAC-ShortCourse/blob/main/environment.yml)** file.
    
@@ -20,7 +20,7 @@ The notebooks feature the following capabilities:
    -> Run the following from your commandline: **conda env create --file environment.yml**
    
       
-  **Step 2:** Initialize your new "tropess-env" environemnt:
+  **Step 2:** Initialize your new "tropess-igac-env" environemnt:
   
    -> Run the following from your commandline: **conda activate tropess-env**
    
