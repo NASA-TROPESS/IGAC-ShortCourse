@@ -22,7 +22,7 @@ The notebooks feature the following capabilities:
       
   **Step 2:** Initialize your new "tropess-igac-env" environemnt:
   
-   -> Run the following from your commandline: **conda activate tropess-env**
+   -> Run the following from your commandline: **conda activate tropess-igac-env**
    
    
 ## Tutorial Summary
