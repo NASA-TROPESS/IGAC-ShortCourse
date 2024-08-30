@@ -26,6 +26,7 @@ dependencies:
  - Basemap
  - cartopy
  - IPython
+ - ipywidgets
  - pip
  - pip:
 # works for regular pip packages
