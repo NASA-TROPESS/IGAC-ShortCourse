@@ -1,4 +1,5 @@
 # IGAC-ShortCourse
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://github.com/NASA-TROPESS/IGAC-ShortCourse/blob/main/LICENSE.txt)
 
 This repo intends to provide curated set of Jupyter Python notebooks for the IGAC Short Course. 
 
