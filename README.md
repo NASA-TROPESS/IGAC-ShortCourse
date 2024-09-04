@@ -34,6 +34,8 @@ The notebooks feature the following capabilities:
 | Study 2023 Canadian Wildfires using TROPESS CrIS JPSS-1 Carbon Monoxide (CO) data products - **Integrated Data Download** | A Jupyter Notebook coded in Python which reads TROPESS CrIS JPSS-1 CO data products for June 2023 and June 2022 and makes a monthly averaged data product and plots and compare them with fully integrated download of the input data files. | **[Notebook](https://github.com/NASA-TROPESS/IGAC-ShortCourse/blob/main/study-2023-canadian-wildfire-effect-igac.ipynb)** <br /> <br /> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NASA-TROPESS/binders/b66bf7208d615e8673ba2a42af7aad744cec6886?urlpath=lab%2Ftree%2Fstudy-2023-canadian-wildfire-effect-integrated_data_download_4binder.ipynb) | Data access/subset/extraction/plotting/analysis/visualization | 
 
 ## Copyright and Licensing Info
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://github.com/NASA-TROPESS/IGAC-ShortCourse/blob/main/LICENSE.txt)
+
 Copyright (c) 2023-24 California Institute of Technology (“Caltech”). U.S. Government sponsorship acknowledged. All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided
